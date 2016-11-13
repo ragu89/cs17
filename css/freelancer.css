@@ -199,6 +199,9 @@ section.success {
   section.first {
     padding-top: 75px;
   }
+  .navbar-custom .navbar-brand {
+    font-size: .9em;
+  }
 }
 #portfolio .portfolio-item {
   margin: 0 0 15px;
